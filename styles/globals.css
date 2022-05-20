@@ -3,13 +3,13 @@
 @tailwind utilities;
 
 @layer base {
-    
+  body {
+    background: lightgrey;
+  }
 }
 
 @layer components {
-
 }
 
-@layer utilities{
-
+@layer utilities {
 }
